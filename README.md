@@ -19,15 +19,20 @@ This is a FastAPI-based service that integrates with **Azure Cognitive Services 
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone <https://github.com/Samyakshrma/Voice_Assistant.git>
+cd <assistant>
 ```
 
 ### 2️⃣ **Create a `.env` File**
 Before running the application, create a `.env` file in the root directory and add your Azure credentials:
 ```
-SPEECH_KEY=your-azure-speech-key
-SPEECH_REGION=your-azure-region
+AZURE_OPENAI_KEY=<YOUR_KEY>
+AZURE_OPENAI_ENDPOINT=<YOUR_ENDPOINT>
+AZURE_SPEECH_KEY=<YOUR_KEY>
+AZURE_SPEECH_REGION=<DEPLOYMENT_REGION>
+AZURE_OPENAI_DEPLOYMENT=gpt-4
+AZURE_OPENAI_MODEL=gpt-4
+
 ```
 
 
@@ -104,13 +109,4 @@ This project is licensed under the MIT License.
 Feel free to open an issue or reach out! 🚀
 ```
 
----
 
-### **What This README Covers**
-✅ **Project Overview**  
-✅ **Setup Instructions**  
-✅ **Local & Docker Run Commands**  
-✅ **API Endpoints & Example Requests**  
-✅ **Troubleshooting Guide**  
-
-Let me know if you need any modifications! 🚀
