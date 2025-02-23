@@ -2,7 +2,7 @@
 
 
 ### **README.md**
-```markdown
+
 # Azure Speech API FastAPI Service
 
 This is a FastAPI-based service that integrates with **Azure Cognitive Services Speech API** for speech-to-text and text-to-speech functionalities.
