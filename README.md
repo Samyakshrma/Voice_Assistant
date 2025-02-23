@@ -3,7 +3,7 @@
 
 ### **README.md**
 
-# Azure Speech API FastAPI Service
+# AI Assistant based on Azure & FastAPI Service
 
 This is a FastAPI-based service that integrates with **Azure Cognitive Services Speech API** for speech-to-text and text-to-speech functionalities.
 
