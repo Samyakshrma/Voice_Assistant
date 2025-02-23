@@ -1,6 +1,5 @@
-Here’s a **README.md** for your project:  
 
----
+
 
 ### **README.md**
 ```markdown
@@ -31,7 +30,6 @@ SPEECH_KEY=your-azure-speech-key
 SPEECH_REGION=your-azure-region
 ```
 
----
 
 ## 🔧 Running Locally
 
