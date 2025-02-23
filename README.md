@@ -67,13 +67,9 @@ to access the interactive API documentation.
 
 1️⃣ **Build the Docker image**
 ```sh
-docker build -t my_speech_app .
+docker-compose up --build 
 ```
 
-2️⃣ **Run the container**
-```sh
-docker run --env-file .env -p 8000:8000 my_speech_app
-```
 
 ---
 
