@@ -14,8 +14,8 @@ This is a FastAPI-based service that integrates with **Azure Cognitive Services 
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone <https://github.com/Samyakshrma/Voice_Assistant.git>
-cd <assistant>
+git clone https://github.com/Samyakshrma/Voice_Assistant.git
+cd assistant
 ```
 
 ### 2️⃣ **Create a `.env` File**
